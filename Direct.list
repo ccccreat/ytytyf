@@ -8,6 +8,10 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,xiamenair.com
 DOMAIN-SUFFIX,xiamenair.com.cn
 DOMAIN-SUFFIX,xiamenair.cn
+DOMAIN-SUFFIX,tingyun.com
+
+
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
